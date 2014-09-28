@@ -1,6 +1,6 @@
 // Joseph D'Onofrio
 // CSE2
-// hw04-BigMacAgain
+// lab04-BigMacAgain
 
 // prompts the user to enter how many Big Macs they are getting and if they
 // want fries or not, then outputs the total cost of the order
