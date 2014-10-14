@@ -14,14 +14,17 @@ public class HelloWorld{
     public static void main(String[] args) {
         
 //  Print the statement with a box around it
-        System.out.println("############################");
-        System.out.println("############################");
-        System.out.println("#                          #");
-        System.out.println("#     Hello World 2014!!   #");
-        System.out.println("#                          #");
-        System.out.println("############################");
-        System.out.println("############################");
-        System.out.println("test");
+
+        int titFuck=1;
+        System.out.println("1" + 1);
+        System.out.println('1' + 1);
+        System.out.println("1" + 1 + 1);
+        System.out.println("1" + (1+1));
+        System.out.println('1' + 1 + 1);
+        
+       
+        
+       
         
 // test
      }
