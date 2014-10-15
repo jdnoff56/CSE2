@@ -1,8 +1,12 @@
 // Joseph D'Onofrio
 // CSE2
-// hw06-Roulette
+// hw06-Root
 
-// 
+// Uses the bisection method to return the square root of any double > 0 input by the user.
+// It does this by repeatedly taking the middle number of an interval with which the square
+// root must be within, and setting it as either the high (if the middle number is > the input number)
+// or the low (if the middle is < input numer). This loop ends when the high and low are close enough to
+// each other that either could be a good estimation of the square root
 //
 
 // import scanner utility
