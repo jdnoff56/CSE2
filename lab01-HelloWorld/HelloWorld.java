@@ -12,20 +12,20 @@ public class HelloWorld{
     
 // add main method
     public static void main(String[] args) {
-        
-//  Print the statement with a box around it
-
-        int titFuck=1;
-        System.out.println("1" + 1);
-        System.out.println('1' + 1);
-        System.out.println("1" + 1 + 1);
-        System.out.println("1" + (1+1));
-        System.out.println('1' + 1 + 1);
-        
        
-        
-       
+        int n=6;
+        int x=n;
+        int count;
+        int count2;
+        for(;n>0;n--){
+            for(count=0;count<n-2;count++){
+                for (count2=0;count2<n-2;count2++){
+                    System.out.print(n);
+                }
+            System.out.println("");    
+            }
+        }
         
 // test
-     }
     }
+}
